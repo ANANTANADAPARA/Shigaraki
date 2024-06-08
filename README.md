@@ -25,11 +25,11 @@ This script scans a given domain for subdomains, checks each subdomain for URLs 
 
 ## Dependencies:
 
-subfinder
+subfinder -https://github.com/projectdiscovery/subfinder/
 
-httpx-toolkit / httpx
+httpx-toolkit / httpx - https://github.com/projectdiscovery/httpx
 
-halive 
+halive - https://github.com/gnebbia/halive
 
 ## Usage:
 
@@ -43,13 +43,14 @@ halive
 
 how to install? if you use 'httpx' tool with command 'httpx-toolkit' you don't have to modify in 'shigaraki.py' , but you used 'httpx' tool with 'httpx ....' you have to modify command in python script to "httpx-toolkit"-->"httpx".
 
+If you have already all dependencies tool available then don't needed to download.
+
+
 follow this steps below
 
 ```bash
     git clone https://github.com/ANANTANADAPARA/Shigaraki.git
     cd Shigaraki
-    chmod +x requirements.sh
-    ./requirements.sh
     python shigaraki.py
 ```
     
