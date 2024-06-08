@@ -1,5 +1,6 @@
 
 # Shigaraki
+This Tool scan all subdomains for ADMIN panels, you have to just input - domain.
 
 ![Logo](https://raw.githubusercontent.com/ANANTANADAPARA/Shigaraki/main/image.png)
 
