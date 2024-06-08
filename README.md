@@ -1,9 +1,7 @@
 
 # Shigaraki
 
-
-
-![Logo](https://github-production-user-asset-6210df.s3.amazonaws.com/131572814/337854750-4155a5a5-00f3-47e0-a5b0-34b48309fc63.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240608%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240608T074803Z&X-Amz-Expires=300&X-Amz-Signature=7674781e4fccb9c27f12be9de7e70a9bdc9ddac9248877a7421d100a92706382&X-Amz-SignedHeaders=host&actor_id=131572814&key_id=0&repo_id=812163176)
+https://github-production-user-asset-6210df.s3.amazonaws.com/131572814/337854750-4155a5a5-00f3-47e0-a5b0-34b48309fc63.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240608%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240608T074803Z&X-Amz-Expires=300&X-Amz-Signature=7674781e4fccb9c27f12be9de7e70a9bdc9ddac9248877a7421d100a92706382&X-Amz-SignedHeaders=host&actor_id=131572814&key_id=0&repo_id=812163176 
 
 
 ## Badges
