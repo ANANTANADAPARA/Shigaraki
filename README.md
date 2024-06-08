@@ -1,4 +1,5 @@
-![image](https://github.com/ANANTANADAPARA/Shigaraki/assets/131572814/a1562df6-e38c-451b-a01e-881fa52d8e7b)
+![image](https://github.com/ANANTANADAPARA/Shigaraki/assets/131572814/4155a5a5-00f3-47e0-a5b0-34b48309fc63)
+
 
 
 # Shigaraki
