@@ -41,9 +41,9 @@ halive - https://github.com/gnebbia/halive
 
 ## installation
 
-how to install? if you use 'httpx' tool with command 'httpx-toolkit' you don't have to modify in 'shigaraki.py' , but you used 'httpx' tool with 'httpx ....' you have to modify command in python script to "httpx-toolkit"-->"httpx".
+how to install? if you use 'httpx' tool with command 'httpx-toolkit' you don't need to modify in 'shigaraki.py' , but you used 'httpx' tool with 'httpx ....' you have to modify command in python script to "httpx-toolkit"-->"httpx".
 
-If you have already all dependencies tool available then don't needed to download.
+If you have already all dependencies tool available then don't need to download.
 
 
 follow this steps below
