@@ -46,11 +46,10 @@ how to install? if you use 'httpx' tool with command 'httpx-toolkit' you don't h
 follow this steps below
 
 ```bash
-  
-  1. chmod +x requirements.sh
-  2. ./requirements.sh
-  3.  git clone https://github.com/ANANTANADAPARA/Shigaraki.git
-  4.  python shigaraki.py
+    git clone https://github.com/ANANTANADAPARA/Shigaraki.git
+    chmod +x requirements.sh
+    ./requirements.sh
+    python shigaraki.py
 ```
     
 ## 🚀 About Me
