@@ -47,6 +47,7 @@ follow this steps below
 
 ```bash
     git clone https://github.com/ANANTANADAPARA/Shigaraki.git
+    cd Shigaraki
     chmod +x requirements.sh
     ./requirements.sh
     python shigaraki.py
