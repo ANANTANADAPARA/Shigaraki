@@ -9,7 +9,6 @@
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-[![follow github ](https://img.shields.io/github/followers/:ANANTANADAPARA)](https://github.com/ANANTANADAPARA)
 
 ## Features
 
