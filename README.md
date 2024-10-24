@@ -55,7 +55,7 @@ follow this steps below
 ```
     
 ## 🚀 About Me
-Hello Folks , This is Ananta | VAPT | 💜 team | Bughunter | Secured NASA , Indian Gov + many .
+Hello Folks , This is Ananta | VAPT | ❤️ team | Bughunter | Secured NASA , Indian Gov + many .
 
 
 ## 🔗 Links
